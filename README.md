@@ -14,7 +14,8 @@ Home
 
 
 1- create client acount </br>
-2- Adding client filme to favorite </br>
-3- watch filme </br>
-4- watch new filme </br>
-5- show Category filme </br>
+2- login by email and facebbok </br>
+3- Adding client filme to favorite </br>
+4- watch filme </br>
+5- watch new filme </br>
+6- show Category filme </br>
